@@ -15,7 +15,6 @@ type
     CAST_TELEPORT,
     WAIT_TELEPORT,
 
-    DOING_ANTIBAN,
     END_SCRIPT
   );
 
